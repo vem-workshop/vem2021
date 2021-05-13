@@ -35,6 +35,7 @@
         // -----------------------------
         //  Count Down JS
         // -----------------------------
+        // Date of the Workshop VEM!!!
         $('.timer').syotimer({
             year: 2021,
             month: 9,
