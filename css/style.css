@@ -2522,18 +2522,16 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .single-speaker .block {
-  padding-bottom: 70px;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .single-speaker .block .image-block {
   background: #fff;
-  border: 1px solid #e5e5e5;
   padding: 6px;
 }
 
 .single-speaker .block .image-block img {
-  width: 100%;
+  width: 50%;
 }
 
 @media (max-width: 767px) {
