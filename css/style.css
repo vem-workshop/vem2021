@@ -45,6 +45,10 @@ h6 {
     font-size: 1.25rem;
 }
 
+.list-inline-item h6 {
+    font-size: 1rem;
+}
+
 p {
     text-align: justify;
 }
@@ -62,6 +66,14 @@ label {
 
 code {
     color: #222222;
+}
+
+.pc {
+    padding-left: 0;
+}
+
+.pc li {
+    list-style-type: none;
 }
 
 .form-control::-webkit-input-placeholder {
