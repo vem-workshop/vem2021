@@ -76,6 +76,14 @@ code {
     list-style-type: none;
 }
 
+.accepted-papers li {
+    padding-bottom: 7px;
+}
+
+.accepted-papers span {
+    font-size: 14px;
+}
+
 .form-control::-webkit-input-placeholder {
     color: #b3b3b3;
     font-size: 0.9375rem;
